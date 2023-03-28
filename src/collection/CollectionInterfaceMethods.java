@@ -17,7 +17,7 @@ public class CollectionInterfaceMethods {
         al.size();
         System.out.println(al);
         System.out.println(al.contains(500));      // 500 number is contains True or false
-        System.out.println(al.isEmpty());          // find array is empty true or false
+        System.out.println(al.isEmpty());          // find..... array is empty true or false
         System.out.println(al.size());             // size of arraylist
         System.out.println(al.remove(0));     //remove index 0 like( 100 )
         System.out.println("Printing add integer methods : "+al);
